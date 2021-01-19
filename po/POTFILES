@@ -1,0 +1,7 @@
+data/com.sriniwas.welcomescreen.desktop.in
+data/com.sriniwas.welcomescreen.appdata.xml.in
+data/com.sriniwas.welcomescreen.gschema.xml
+src/window.ui
+src/main.py
+src/window.py
+

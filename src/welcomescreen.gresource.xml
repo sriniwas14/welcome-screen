@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/com/sriniwas/welcomescreen">
+    <file>window.ui</file>
+    <file>components/welcome_screen_row.ui</file>
+  </gresource>
+</gresources>
